@@ -1,6 +1,6 @@
 # mvmstuff
 
-this file contains the upgrades script and the f4 script if people want that
+this file contains the upgrades script, the f4 script if people want that and minimized explosions from rockets, stickies and sentry gun
 
 to install them do as followed
 
