@@ -1,0 +1,12 @@
+what this upgrade script does, is that it increases the firing speed value of all weapons, meaning some weapons that are not suppose to have firing speed can now have it
+simple example of that is the soda popper, where the firing speed is the best for this
+
+things that already has firing speed caps at 4 unless you are on a custom server then it allows you to actually upgrade all 6 firing speed upgrades, which is very powerful for
+things l ike beggars bazooka, but valve caps at 4 ticks so there not much we can do about that
+
+
+i have also included another script that i have in this custom folder which also goes in the custom folder of your tf2 directory which is the explosion removal (not entirely but almost)
+its the closest we get
+
+for those wondering about "is it possible to remove buster smoke" short answer is no
+but removed explosions, extremely low graphics and all the settings provided in the f4.cfg file would make the smoke very faded which is the closest we get to removing the buster smoke
